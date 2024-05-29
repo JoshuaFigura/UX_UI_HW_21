@@ -1,0 +1,33 @@
+h1 {
+    color: #014421;
+    margin-top: 10px;
+}
+
+.jumbotron {
+    padding-bottom: 20%;
+}
+
+.btn {
+    background-color: #014421;
+    border-color: #014421;
+    
+}
+
+.btn:hover {
+    background-color: #014421;
+    border-color: #014421
+}
+
+p{
+  margin-top: 40px;
+  margin-bottom: 20px;
+
+}
+
+.card{
+    border-color: transparent;
+}
+
+.card:hover{
+    transform: translate3D(0,-1px,0) scale(1.10);
+}
